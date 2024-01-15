@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649477813882",
+    "project_id": "laporan-keuangan-da8d7",
+    "storage_bucket": "laporan-keuangan-da8d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649477813882:android:42d5e4f1ccd3c1a7eaedc3",
+        "android_client_info": {
+          "package_name": "com.example.keuangan_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsHDzq1hFPdUvICBi6CAA-bI_pxQpDm14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
